@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rickymurithi.
 - 👀 I’m interested in Full Stack development.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT.JS, RUBY, SQL.
+- 🌱 I’m currently learning HTML5, CSS3, JAVASCRIPT, REACT.JS, Redux, SQL, RUBY.
 - 💞️ I’m looking to collaborate on Innovative problem solving Web Applications.
 - 📫 How to reach me @rickymurithi across all social handles.
 
