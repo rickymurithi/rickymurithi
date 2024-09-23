@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rickymurithi.
 - 👀 I’m interested in Full Stack development, Conversant with HTML5, CSS3, Tailwind, JAVASCRIPT, Node.js, REACT.JS, Redux, MySQL, RUBY, Vercel, Netlify and Figma. 
-- 🌱 I’m currently learning Vue.js, Flutter, Next.js, Angular, MongoDB, AWS and JAVA.
+- 🌱 I’m currently learning Flutter, Next.js, Angular, MongoDB, AWS and JAVA.
 - 💞️ I’m looking to collaborate on Innovative problem solving Web Applications.
 - 📫 How to reach me @rickymurithi across all social handles.
 
